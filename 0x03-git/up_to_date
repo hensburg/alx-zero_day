@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 touch up_to_date
+=======
+echo 'git pull'>up_to_date
+>>>>>>> 2622ee79eba18788df65e2d7bf66dfc94b9ae700
